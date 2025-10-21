@@ -118,7 +118,7 @@ The goal was to understand how to design dashboards that effectively communicate
 
 
 ### 📊 Example of Tableau and Power BI dashboard
-![Shopping Data Dashboard](Shopping%20Data%20Dashboard%20using%20Tableau.jpg)
+![Shopping Data Dashboard](\images\Shopping%20Data%20Dashboard%20using%20Tableau.jpg)
 
 
 
