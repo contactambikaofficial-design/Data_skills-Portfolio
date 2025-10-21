@@ -79,6 +79,10 @@ This week focused on building a strong foundation in **data handling, organizati
 - **Pivot Tables & Charts**  
 - **Descriptive Statistics**
 
+  
+### 📊 Example of Pivot Table in Excel
+![Product Revenue Excel](Images/Product%20Revenue%20-Pivot%20Table%20in%20Excel.jpg)
+
 *By the end of Week 1, I was able to transform raw datasets into clean, structured information and generate clear, data-driven insights using Excel.*
 
 
@@ -118,7 +122,8 @@ The goal was to understand how to design dashboards that effectively communicate
 
 
 ### 📊 Example of Tableau and Power BI dashboard
-![Shopping Data Dashboard](\images\Shopping%20Data%20Dashboard%20using%20Tableau.jpg)
+![Shopping Data Dashboard](Images/Shopping%20Data%20Dashboard%20using%20Tableau.jpg)
+![Sales Dashboard](Images/Sales,Profit%20Margin-Power%20BI.jpg)
 
 
 
@@ -158,6 +163,9 @@ The primary goal was to learn how to **extract, filter, and manipulate data** ef
 - **Database Normalization**
 
 
+### 📊 Example of SQL
+![SQL Join](Images/SQL%20using%20Inner%20Join.jpg)
+
 
 *By the end of Week 3, I was able to write optimized SQL queries to extract actionable insights from relational databases and prepare clean datasets for analysis.*
 
@@ -194,10 +202,12 @@ The main objective was to explore how cloud platforms handle **data storage, pro
 - **Azure SQL Database**  
 - **Azure Data Factory**  
 - **Azure Data Lake**  
-- **Power BI Integration**  
+- **Power BI Integration**
 
 
-
+  ### 📊 Example of Relational Data and Non Relational Data in Azure
+![Relational Data](Images/Relational%20Data%20in%20Azure.jpg)
+![Non Relational Data](Images/Non%20Relational%20Data%20in%20Azure.jpg)
 
 *By the end of Week 5, I was able to design and implement an end-to-end cloud data workflow — from data ingestion and transformation to visualization and insight delivery using Microsoft Azure.*
 
@@ -209,7 +219,7 @@ The main objective was to explore how cloud platforms handle **data storage, pro
 This week focused on using **Python programming** for performing data analysis — from cleaning and transformation to visualization.  
 The goal was to automate data workflows and gain deeper analytical insights using Python’s core data libraries.
 
----
+
 
 ###  Key Learnings
 - Explored **Python fundamentals** such as variables, loops, functions, and data structures  
@@ -244,9 +254,11 @@ The goal was to automate data workflows and gain deeper analytical insights usin
 - **NumPy** – Numerical and statistical analysis  
 - **Matplotlib** – Basic data visualization  
 - **Seaborn** – Advanced, aesthetic visualization  
-- **Jupyter Notebook**  
+- **Jupyter Notebook**
 
-
+### 📊 Example of Pandas,Matplotlib and Seaborn
+![Pandas](Images/Students%20Mark%20Distribution.jpg)
+![Matplotlib and Seaborn](Images/Heat%20map%20using%20Matplotlib%20and%20Seaborn.jpg)
 
  *By the end of Week 6, I was able to clean, analyze, and visualize complex datasets programmatically using Python, automating manual workflows.*
 
