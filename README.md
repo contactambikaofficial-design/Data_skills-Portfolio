@@ -35,7 +35,7 @@ Practiced using pandas for data manipulation, NumPy for computations, and Matplo
 **Libraries**: pandas, matplotlib, seaborn  
 **Visualization**: Power BI / Tableau  
 **Version Control**: Git & GitHub  
-**Data Sources**:CSV, Excel, and SQL databases
+**Data Sources**:CSV, Excel, and SQL databases  
 **Cloud**:Azure SQL Database ,Azure Data Lake
 
 ##  Key Learnings
@@ -45,7 +45,7 @@ Practiced using pandas for data manipulation, NumPy for computations, and Matplo
 - Building dashboards to communicate findings  
 - Using GitHub for version control and collaboration
 
-- ##  Key Projects
+ ##  Key Projects
 ### **Spotify and Retail Dashboard**
 - Created interactive **Tableau** and **Power BI** dashboards.
 ### **Paws and Whiskers – Azure Cloud**
@@ -54,8 +54,6 @@ Practiced using pandas for data manipulation, NumPy for computations, and Matplo
 - Used **Python**, **Pandas**, and **Matplotlib** to clean and visualize data, trends through charts .
 
  ##  Week 1 – Data Fundamentals and Excel for Analysis
-
-- ![GDP Dashboard](/Product Revenue -Pivot Table in Excel.jpg)
 
 
 ###  Overview
@@ -80,10 +78,10 @@ This week focused on building a strong foundation in **data handling, organizati
 - **Descriptive Statistics**
 
   
-### 📊 Example of Pivot Table in Excel
+###   Pivot Table in Excel
 ![Product Revenue Excel](Images/Product%20Revenue%20-Pivot%20Table%20in%20Excel.jpg)
 
-*By the end of Week 1, I was able to transform raw datasets into clean, structured information and generate clear, data-driven insights using Excel.*
+By the end of Week 1, I was able to transform raw datasets into clean, structured information and generate clear, data-driven insights using Excel.
 
 
 ---
@@ -121,13 +119,13 @@ The goal was to understand how to design dashboards that effectively communicate
 
 
 
-### 📊 Example of Tableau and Power BI dashboard
+###  Tableau and Power BI dashboard
 ![Shopping Data Dashboard](Images/Shopping%20Data%20Dashboard%20using%20Tableau.jpg)
 ![Sales Dashboard](Images/Sales,Profit%20Margin-Power%20BI.jpg)
 
 
 
- *By the end of Week 2, I was able to build fully interactive, professional-grade dashboards that transformed datasets into actionable business insights.*
+ By the end of Week 2, I was able to build fully interactive, professional-grade dashboards that transformed datasets into actionable business insights.
 
 
 ---
@@ -163,11 +161,11 @@ The primary goal was to learn how to **extract, filter, and manipulate data** ef
 - **Database Normalization**
 
 
-### 📊 Example of SQL
+###  SQL
 ![SQL Join](Images/SQL%20using%20Inner%20Join.jpg)
 
 
-*By the end of Week 3, I was able to write optimized SQL queries to extract actionable insights from relational databases and prepare clean datasets for analysis.*
+By the end of Week 3, I was able to write optimized SQL queries to extract actionable insights from relational databases and prepare clean datasets for analysis.
 
 ---
 
@@ -205,11 +203,11 @@ The main objective was to explore how cloud platforms handle **data storage, pro
 - **Power BI Integration**
 
 
-  ### 📊 Example of Relational Data and Non Relational Data in Azure
+  ### Relational Data and Non Relational Data in Azure
 ![Relational Data](Images/Relational%20Data%20in%20Azure.jpg)
 ![Non Relational Data](Images/Non%20Relational%20Data%20in%20Azure.jpg)
 
-*By the end of Week 5, I was able to design and implement an end-to-end cloud data workflow — from data ingestion and transformation to visualization and insight delivery using Microsoft Azure.*
+By the end of Week 5, I was able to design and implement an end-to-end cloud data workflow — from data ingestion and transformation to visualization and insight delivery using Microsoft Azure.
 
 ---
 
@@ -256,11 +254,12 @@ The goal was to automate data workflows and gain deeper analytical insights usin
 - **Seaborn** – Advanced, aesthetic visualization  
 - **Jupyter Notebook**
 
-### 📊 Example of Pandas,Matplotlib and Seaborn
+###  Pandas,Matplotlib and Seaborn
 ![Pandas](Images/Students%20Mark%20Distribution.jpg)
 ![Matplotlib and Seaborn](Images/Heat%20map%20using%20Matplotlib%20and%20Seaborn.jpg)
 
- *By the end of Week 6, I was able to clean, analyze, and visualize complex datasets programmatically using Python, automating manual workflows.*
+ *
+By the end of Week 6, I was able to clean, analyze, and visualize complex datasets programmatically using Python, automating manual workflows.
 
 
 ## About Me
