@@ -256,7 +256,11 @@ The goal was to automate data workflows and gain deeper analytical insights usin
 - **Jupyter Notebook**
 
 ###  Pandas,Matplotlib and Seaborn
-![Pandas](Images/Students%20Mark%20Distribution.jpg)
+
+Histogram for student mark distribution using Pandas
+![Pandas](Images/Students%20Mark%20Distribution.jpg)  
+
+Heat map using Matplotlib and Seaborn
 ![Matplotlib and Seaborn](Images/Heat%20map%20using%20Matplotlib%20and%20Seaborn.jpg)
 
  *
