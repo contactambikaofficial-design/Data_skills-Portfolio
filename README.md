@@ -149,7 +149,8 @@ The primary goal was to learn how to **extract, filter, and manipulate data** ef
 
 
 ###  Practical Exercise
-- Queried a **retail sales database** to calculate total revenue, customer purchase frequency, and top-selling products  
+- Queried a **retail sales database** to calculate total revenue, customer purchase frequency, and top-selling products
+- Queried a world database to check countries with Low population density, high GDP per capita.
 - Used **JOINs and subqueries** to combine sales, customer, and product data for deeper analysis  
 
 
