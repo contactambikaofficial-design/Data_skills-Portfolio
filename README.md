@@ -14,21 +14,15 @@ The bootcamp emphasized the analysis of various datasets, including global GDP p
 **Duration:** 8 Weeks  
 **Focus Areas:**
 ### Week 1 – Data Fundamentals and Excel for Analysis
-Learned the basics of data handling and organization using Microsoft Excel.  
-Focused on functions, pivot tables, and basic statistical analysis to summarize and interpret datasets efficiently.
+
 ###  Week 2 – Data Visualization using Power BI / Tableau
-Explored techniques for visualizing data insights through interactive dashboards.  
-Gained experience in connecting data sources, creating charts, and designing reports to communicate business trends effectively.
+
 ###  Week 3 – SQL for Data Extraction and Querying
-Developed skills to extract, filter, and aggregate data using SQL queries.  
-Worked with relational databases to understand joins, subqueries, and data normalization principles.
+
 ###  Week 5 – Azure Cloud for Data Analysis
-Introduced to cloud-based data services on Microsoft Azure and explored relational, non-relational, and analytical data using Azure services. 
-Learned how to store, process, and analyze data using Azure SQL, Data Factory, Data Lake, and Synapse.
-Integrated Power BI with Azure SQL to visualise KPIs such as daily sales, top products, and customer loyalty trends.
+
 ###  Week 6 – Python for Data Analysis (pandas, NumPy, Matplotlib,Seaborn)
-Used Python to clean, analyze, and visualize data programmatically.  
-Practiced using pandas for data manipulation, NumPy for computations, and Matplotlib for visual representation of trends and patterns.
+
 
 ##  Tools & Technologies
 **Programming**:Python, SQL  
@@ -54,10 +48,12 @@ Practiced using pandas for data manipulation, NumPy for computations, and Matplo
 - Used **Python**, **Pandas**, and **Matplotlib** to clean and visualize data, trends through charts .
 
  ##  Week 1 – Data Fundamentals and Excel for Analysis
-
+This week focused on building a strong foundation in **data handling, organization, and basic analysis** using **Microsoft Excel** — one of the most essential tools for any data professional.
 
 ###  Overview
-This week focused on building a strong foundation in **data handling, organization, and basic analysis** using **Microsoft Excel** — one of the most essential tools for any data professional.
+Learned the basics of data handling and organization using Microsoft Excel.  
+Focused on functions, pivot tables, and basic statistical analysis to summarize and interpret datasets efficiently.
+
 
 ###  Key Learnings
 - Understanding **data types**, **formats**, and **data organization principles**  
@@ -86,11 +82,12 @@ By the end of Week 1, I was able to transform raw datasets into clean, structure
 
 ---
 ##  Week 2 – Data Visualization using Power BI / Tableau
-
-###  Overview
 This week focused on learning how to transform raw data into meaningful and interactive visual insights using **Power BI** and **Tableau**.  
 The goal was to understand how to design dashboards that effectively communicate business performance and analytical stories.
 
+###  Overview
+Explored techniques for visualizing data insights through interactive dashboards.  
+Gained experience in connecting data sources, creating charts, and designing reports to communicate business trends effectively.
 
 
 ###  Key Learnings
@@ -130,10 +127,12 @@ The goal was to understand how to design dashboards that effectively communicate
 
 ---
 ##  Week 3 – SQL for Data Extraction and Querying
-
-###  Overview
 This week focused on mastering **Structured Query Language (SQL)** — the foundation for working with relational databases.  
 The primary goal was to learn how to **extract, filter, and manipulate data** efficiently to support data-driven decision-making.
+
+###  Overview
+Developed skills to extract, filter, and aggregate data using SQL queries.  
+Worked with relational databases to understand joins, subqueries, and data normalization principles.
 
 
 
@@ -171,8 +170,13 @@ By the end of Week 3, I was able to write optimized SQL queries to extract actio
 ---
 
 ##  Week 5 – Azure Cloud for Data Analysis
+This week focused on understanding how to perform **data analysis in the cloud** using **Microsoft Azure**.  
+The main objective was to explore how cloud platforms handle **data storage, processing, integration, and visualization** at scale.
 
 ###  Overview
+Introduced to cloud-based data services on Microsoft Azure and explored relational, non-relational, and analytical data using Azure services. 
+Learned how to store, process, and analyze data using Azure SQL, Data Factory, Data Lake, and Synapse.
+Integrated Power BI with Azure SQL to visualise KPIs such as daily sales, top products, and customer loyalty trends.
 This week focused on understanding how to perform **data analysis in the cloud** using **Microsoft Azure**.  
 The main objective was to explore how cloud platforms handle **data storage, processing, integration, and visualization** at scale.
 
@@ -213,10 +217,13 @@ By the end of Week 5, I was able to design and implement an end-to-end cloud dat
 ---
 
 ##  Week 6 – Python for Data Analysis (pandas, NumPy, Matplotlib, Seaborn)
-
-###  Overview
 This week focused on using **Python programming** for performing data analysis — from cleaning and transformation to visualization.  
 The goal was to automate data workflows and gain deeper analytical insights using Python’s core data libraries.
+
+###  Overview
+Used Python to clean, analyze, and visualize data programmatically.  
+Practiced using pandas for data manipulation, NumPy for computations, and Matplotlib for visual representation of trends and patterns.
+
 
 
 
@@ -263,7 +270,7 @@ Histogram for student mark distribution using Pandas
 Heat map using Matplotlib and Seaborn
 ![Matplotlib and Seaborn](Images/Heat%20map%20using%20Matplotlib%20and%20Seaborn.jpg)
 
- *
+ 
 By the end of Week 6, I was able to clean, analyze, and visualize complex datasets programmatically using Python, automating manual workflows.
 
 
